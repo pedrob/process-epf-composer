@@ -1,0 +1,38 @@
+Info: DeliveryProcess:design_sprint: 469 mini seconds publishing element
+Info: DeliveryProcess:design_sprint: 89 mini seconds publishing process specific layout data
+Info: Task:unpack: 50 mini seconds publishing element
+Info: TaskDescriptor:unpack: 102 mini seconds publishing element
+Info: Role:bussiness_role: 119 mini seconds publishing element
+Info: RoleDescriptor:bussiness_role: 61 mini seconds publishing element
+Info: Role:decision_maker: 70 mini seconds publishing element
+Info: RoleDescriptor:decision_maker: 52 mini seconds publishing element
+Info: Role:designer: 64 mini seconds publishing element
+Info: RoleDescriptor:designer: 64 mini seconds publishing element
+Info: Role:engineer: 97 mini seconds publishing element
+Info: RoleDescriptor:engineer: 58 mini seconds publishing element
+Info: Role:facilitator: 60 mini seconds publishing element
+Info: RoleDescriptor:facilitator: 54 mini seconds publishing element
+Info: Role:product_manager: 67 mini seconds publishing element
+Info: RoleDescriptor:product_manager: 56 mini seconds publishing element
+Info: Artifact:sprint_notes: 47 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_notes: 73 mini seconds publishing element
+Info: Task:sketch: 23 mini seconds publishing element
+Info: TaskDescriptor:sketch: 57 mini seconds publishing element
+Info: Artifact:capture_document: 50 mini seconds publishing element
+Info: WorkProductDescriptor:capture_document: 60 mini seconds publishing element
+Info: Artifact:detailed_sprint_notes: 36 mini seconds publishing element
+Info: WorkProductDescriptor:detailed_sprint_notes: 53 mini seconds publishing element
+Info: Task:decide: 33 mini seconds publishing element
+Info: TaskDescriptor:decide: 50 mini seconds publishing element
+Info: Task:prototype: 21 mini seconds publishing element
+Info: TaskDescriptor:prototype: 48 mini seconds publishing element
+Info: Artifact:prototype: 18 mini seconds publishing element
+Info: WorkProductDescriptor:prototype: 46 mini seconds publishing element
+Info: Task:test: 20 mini seconds publishing element
+Info: TaskDescriptor:test: 47 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 57 mini seconds publishing element
+Info: CustomCategory:Tasks: 17 mini seconds publishing element
+Info: CustomCategory:Roles: 17 mini seconds publishing element
+Info: CustomCategory:Work Products: 17 mini seconds publishing element
+Info: CustomCategory:Processes: 16 mini seconds publishing element
+Info: : Publishing time: 0 minutes 7 seconds
